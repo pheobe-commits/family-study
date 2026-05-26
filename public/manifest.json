@@ -1,0 +1,9 @@
+{
+  "short_name": "공부방",
+  "name": "우리가족 공부방",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFB4B4",
+  "background_color": "#FFF5F8",
+  "orientation": "portrait"
+}
